@@ -3,3 +3,8 @@
 :published_at: 2018-09-05
 :hp-tags: HubPress, Blog, Open_Source,
 :hp-alt-title: Little bit to the futur
+
+If you want to contribute to HubPress, you are reading the right guide.
+The Contributing guide is a short reference that will help you contribute to HubPress code changes.
+Contributing doesn’t just mean development. You can help with documentation, contribute a new theme, or help with unit tests.
+Read on to find out how to begin contributing today.
