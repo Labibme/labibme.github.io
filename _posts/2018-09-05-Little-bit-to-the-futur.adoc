@@ -1,7 +1,5 @@
 = Offre du Moment
-See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ 
-for information about the parameters.
- :hp-image: /covers/cover.png
- :published_at: 2018-09-05
- :hp-tags: HubPress, Blog, Open_Source,
- :hp-alt-title: Little bit to the futur
+:hp-image: /covers/cover.png
+:published_at: 2018-09-05
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: Little bit to the futur
