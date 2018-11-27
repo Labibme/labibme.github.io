@@ -1,0 +1,146 @@
+
+:hp-image: /covers/cover.png
+:published_at: 2019-01-31
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: My English Title
+= INTEGRATEUR HTML :
+
+Rendre les modèles de mail « Responsive » !!
+
+Affichage sur PC, Tablette, Smartphone au format Portrait
+
+Modèles Impactés : Newsletter et Flash-Info
+
+Les Modèles doivent rester facilement modifiables par le client
+
+Responsive, PC, iOS, Android, Newsletter
+
+Lieu : 92 / Durée : A définir / Dispo : ASAP
+
+ 
+
+= Analyste CHRONOGESTOR :
+
+Minimum 6 ans d’expérience
+
+Au sein de l’activité de maintenance des activités RH du groupe
+
+Intégrer le processus de maintenance de l’appli Chronogestor
+
+Maintenance évolutive et corrective
+
+Support applicatif niveau 3
+
+Développement applicatif et tests de qualification.
+
+Profil technico fonctionnel
+
+Oracle /SQL et Chronogestor REQUIS / ASAP / 6 mois renouvelables / 94
+
+ 
+
+= CONSULTANT JAVA/J2EE SENIOR
+
+BAC +5, 7/10 ans d’exp
+
+Conception d’application en accord avec les ambitions digitale du client, notamment l’utilisation d’API REST.
+
+Suivi des fonctionnalités à faire développer en Inde :
+
+Maintien de documents techniques.
+
+Expertise technique pour support de production (niveau 4)
+
+JAVA / SPRING / ORAVLE / WEBSPHERE / ANGULAR
+
+ASAP / ANGLAIS COURANT OBLIGATOIRE / PARIS / 6 MOIS RENOUVELABLES
+
+ 
+
+= DEVELOPPEUR SALESFORCE
+
+3/5 ans d’exp
+
+Dans le respect de nos normes de développement et en privilégiant les
+
+développements Point & Click, pour rester dans le standard Salesforce.
+
+Analyse de besoins métiers (en coordination avec un lead fonctionnel)
+
+Rédaction de spécifications techniques et réalisation des développements
+
+Expertise Salesforce : certifications DEV 401 ou DEV 450
+
+EVRY 91 / 6 mois renouvelables / ASAP
+
+ 
+
+= CONSULTANT AMOA SUPPORT RISQUES
+
+BAC +5, 1/3 ans d’exp
+
+S’assurer de la bonne production des sensibilités, de la VAR, de l’exposition
+
+par contrepartie, des Stress Test, des Réserves, et de valider les résultats produits
+
+Produits financiers couverts : Equity and Commodities
+
+Assurer le support fonctionnel des différents outils internes permettant de
+
+gérer ces différents calculs auprès du business (Risk Manager et Front Office)
+
+Contribuer à l’amélioration continue des process et au suivi de l’activité niveau1/2 faite par les équipes en Inde
+
+Grecques, var, stress test, exposition au risque de contrepartie
+
+ASAP / ANGLAIS COURANT OBLIGATOIRE / PARIS / 6 MOIS RENOUVELABLES
+
+ 
+
+ 
+
+= CONSULTANT TECHNICO-FONCTIONNEL SAP/SD
+
+BAC+5 avec 10 années d’expériences
+
+Dans le cadre d’une mission liée au code : lecture, debug et sécurisation (pas de DEV).
+
+Mission de Consulting sénior très expérimenté sur le module SD de SAP.
+
+Outil : SAP MODULE SD versions ECC6 et SOH.
+
+Maîtrise de l’anglais technique
+
+ASAP / 6 mois renouvelables / (92) Proche Paris
+
+ 
+
+= CHEF DE PROJET TECHNIQUE TRANSVERSE :
+
+Minimum 10 ans d'expérience en conduite de projet en environnement .Net
+
+Interlocuteur des directions métiers et des différentes entités du SI en Anglais
+
+Expérience et capacité à construire des plannings et estimations de charges
+
+Industrialisation de la capacité productive du SI en mode Agile
+
+Anglais courant / 95 / 6 mois renouvelables / ASAP
+
+ 
+
+= CHEF DE PROJET PRINT
+
+Minimum 10 ans d'expérience projet dans l’éditique ou le digital voire les deux
+
+Très bonne maîtrise de toutes les étapes du PRINT ( nombreux catalogues à fort tirage )
+
+Mise en place de solutions de gestion de contenus Marketing en France puis en Europe.
+
+Solide expérience du domaine de l’éditique, ou de l’impression et du digital obligatoire
+
+Connaissance de la gestion des flux omnicanaux de type PIM sera un plus
+
+Anglais courant / 95 / 6 mois renouvelables / ASAP
+
+ 
