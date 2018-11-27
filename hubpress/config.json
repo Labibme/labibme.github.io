@@ -40,18 +40,23 @@
     "disqus": ""
   },
   "socialnetwork": {
-    "email": "",
-    "github": "",
-    "twitter": "",
-    "facebook": "",
+    "email": "contact@fean.fr",
+    "github": "https://github.com/Labibme/labibme.github.io",
+    "twitter": "https://twitter.com/ServicesFinyx",
+    "facebook": "https://www.facebook.com/Fean-1291707500925440/",
     "googleplus": "",
     "instagram": "",
     "pinterest": "",
     "flickr": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/company/fean/",
     "stackoverflow": "",
     "paypalme": "",
     "opencollective": ""
   },
-  "navigation": []
+  "navigation": [
+    {
+      "label": "FeaN",
+      "url": "https://www.fean.fr/"
+    }
+  ]
 }
